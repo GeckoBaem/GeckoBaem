@@ -1,7 +1,7 @@
-<h1 align="center">Gecko Baem</h1>
+<h1 align="center">🦎 Gecko Baem 🦎</h1>
 <div align="center">
     <a href="https://page.geckobaem.kr">
-        <h2>
+        <h2 style="color: #3d9bff;">
             page.geckobaem.kr
         </h2>
     </a>
