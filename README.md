@@ -1,9 +1,11 @@
 <h1 align="center">🦎 Gecko Baem 🦎</h1>
 <div align="center">
     <a href="https://page.geckobaem.kr">
-        <h2 style="color: #3d9bff;">
-            page.geckobaem.kr
-        </h2>
+        <div style="background-color: #3d9bff; color: white; margin: 10px;">
+            <b>
+                page.geckobaem.kr
+            </b>
+        </div>
     </a>
 </div>
 <br>
